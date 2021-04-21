@@ -1,4 +1,4 @@
-import words 
+import words
 
 class TestWords:
 
